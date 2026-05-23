@@ -204,4 +204,4 @@ For a comprehensive technical deep-dive including NLP concepts, viva preparation
 ## 👤 Author
 
 **Rajveer Singh**  
-Built as an enterprise-grade AI portfolio project demonstrating full-stack RAG architecture.
+Built as an enterprise-grade AI portfolio project demonstrating full-stack RAG architecture
